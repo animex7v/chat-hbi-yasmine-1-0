@@ -1,0 +1,5 @@
+{
+  "keyopenai": "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",
+  "donasi": "FOLLOW ME ON INSTAGRAM: https://instagram.com/"
+}
+
